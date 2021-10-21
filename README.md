@@ -3,7 +3,7 @@ CAD Models for 3D Printing
 
 ## Design
 ### Revision 3
-Revision 2 required tight tolerances, which made manufacturing and adjusting hard. Revision 3 solves this issue by relying on nuts and bolts instead of friction based pins. The holes are sized for M2.5 screws. This should also make the structure stronger and easier to work on.
+Revision 2 required tight tolerances, which made manufacturing and adjusting hard. Revision 3 solves this issue by relying on nuts and bolts instead of friction based pins. This revision also reduces plate size for faster prints and easier access to ports and wires. It also features the new mount for the Raspberry Pi instead of the Jetson Nano. The holes are sized for M2.5 screws. This should also make the structure stronger and easier to work on.
 ![Revision 2 Image](https://github.com/APSCL/cad_model/blob/main/images/revision3.PNG?raw=true) 
 
 ### Revision 2
